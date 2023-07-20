@@ -13,12 +13,10 @@ This modpack is short and intense.
 If you don't know how these work, you won't last very long.
 - MineColonies
 - Hbm's Nuclear Tech Mod Reloaded
-- Flans (modern warfare)
 
 ## Minor Mods
 It will help to know these but you're not screwed if you haven't used them before.
 - Apotheosis (easier enchanting)
-- SecurityCraft (base defences)
 - Bonzai Trees (automated wood)
 - Iron backpacks + chests (easier storage)
 
